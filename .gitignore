@@ -3,3 +3,5 @@ app/__pycache__/*
 __pycache__/*
 .vscode
 windows.bat
+__pycache__
+logs
